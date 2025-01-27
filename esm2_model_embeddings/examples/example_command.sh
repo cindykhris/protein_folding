@@ -6,3 +6,4 @@ python extract_embeddings_esm2.py facebook/esm2_t33_650M_UR50D \
   --repr_layers -1 -2 -3 \
   --include per-token
 
+
